@@ -1,0 +1,5 @@
+select_patient_button_xpath="//div[@class='info-wrapper layout-wrap layout-row flex']"
+patient_details_text_xpath = "//label[@id='form1:tbForm:patientDetailsLabel']|//div[@id='form1:tbForm:patientDetails']"
+carebook_ifram_xpath = "//iframe[@id='carebook-iframe']"
+carebookoptions_button_xpath = "//button//span[text()='Options']"
+carebookoptionsrefresh_button_xpath = "//span[text()='Refresh']"

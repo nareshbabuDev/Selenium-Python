@@ -1,0 +1,42 @@
+{
+
+  "Escrow":
+  {
+    "URL": "https://escrow.gsihealth.net",
+    "ENVIRONMENT": "Escrow",
+    "USER_ID1": "gsi.power@gsihealth.com",
+    "PASSWORD": "Test123#",
+    "User1FirstName": "Gsi",
+    "User1LastName":"Power",
+    "UserMailID1": "gsi.power_gsihealth@escrowdirect.gsihealth.net",
+    "User_ID2": "esautomationone@test.com",
+    "UserMailID2": "esautomationone_test@escrowdirect.gsihealth.net",
+    "User2FirstName" : "Automation",
+    "User2LastName" : "One",
+    "User_ID3": "esautomationtwo@test.com",
+    "UserMailID3": "esautomationtwo_test@escrowdirect.gsihealth.net",
+    "User3FirstName" : "Automation",
+    "User3LastName" : "Two"
+  },
+
+  "Escrow2":
+  {
+    "URL": "https://escrow2.gsihealth.net",
+    "ENVIRONMENT": "Escrow",
+    "USER_ID1": "gsi.power@gsihealth.com",
+    "PASSWORD": "Test123#",
+    "User1FirstName": "Gsi",
+    "User1LastName":"Power",
+    "UserMailID1": "gsi.power_gsihealth@escrowdirect.gsihealth.net",
+    "User_ID2": "esautomationone@test.com",
+    "UserMailID2": "esautomationone_test@escrowdirect.gsihealth.net",
+    "User2FirstName" : "Automation",
+    "User2LastName" : "One",
+    "User_ID3": "esautomationtwo@test.com",
+    "UserMailID3": "esautomationtwo_test@escrowdirect.gsihealth.net",
+    "User3FirstName" : "Automation",
+    "User3LastName" : "Automation"
+  }
+
+}
+

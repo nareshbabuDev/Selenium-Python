@@ -1,0 +1,8 @@
+username_textbox_xpath = "//input[@name='UserID']"
+password_textbox_xpath = "//input[@name='Password']"
+login_button_xpath = "//button[@id='btnLogin']/span"
+samsha_checkbox_xpath = "//label[contains(text(),'I have read and ')]"
+samsha_button_xpath = "//div[text()='I Agree']"
+logintoaccount_text_xpath = "//div[@class='title ng-binding ng-scope']"
+gotit_button_xpath = "//div[contains(text(),'Got it')]"
+login_logo_xpath = "//div[@class='title ng-binding']"

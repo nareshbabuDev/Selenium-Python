@@ -1,0 +1,6 @@
+select_dropdown_xpath = "//div[text()='- Select a Value -']"
+selectapplication_button_xpath = "//div[@role='listbox']//div[text()='Application']"
+combobox_dropdown_xpath = "//td[@class='comboBoxItemPickerCell']"
+selectcareplan_dropdown_xpath = "//tr[@role='option']//div[text()='Care Plan']"
+search_button_xpath = "//img[contains(@src,'search')]"
+alert_list_xpath = "//div[@class='listGrid']//tr[@role='listitem']"

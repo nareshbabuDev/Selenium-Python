@@ -1,0 +1,16 @@
+{
+"ENVIRONMENT":"Escrow",
+"SCRIPTSTATUS": true,
+"SAUCELABS":{
+"SAUCELABSSTATUS": false,
+"username": "prabha2",
+"access_key": "0ef913f5-f276-467e-bfc3-fbaad07335f1",
+"platform": "Windows 7",
+"browserName": "chrome",
+"version": 76,
+"build": "Daily_Verification_Test_QA",
+"name": "Daily_Verification_Test_QA"
+}
+
+
+}

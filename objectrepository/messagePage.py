@@ -1,0 +1,6 @@
+new_mail_button_xpath ="//button[text()='New']"
+to_textarea_xpath="//div[contains(text(),'To')]//ancestor::td[@class='label']//following-sibling::td/textarea"
+subject_input_xpath ="//div[contains(text(),'Subject')]/..//following-sibling::td/input"
+send_button_xpath ="//button[text()='Send']"
+refresh_button_xpath ="//td/div/a[text()='Refresh']"
+loginfo_xpath ="//div[contains(@class,'loginfo')]/../..//following-sibling::tr/td/div"

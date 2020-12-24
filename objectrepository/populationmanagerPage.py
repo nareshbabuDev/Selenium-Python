@@ -1,0 +1,7 @@
+content_file_button_xpath="//*[@id='external_link_file']"
+standardoperationalreports_link_xpath="//a[contains(text(),'Standard Operational Reports')]"
+programenrollmentreport_link_xpath="//a[text()='ProgramEnrollmentReport']"
+viewreport_button_xpath="//button[text()='View Report']"
+programenrollmentreport_title_xpath="//tr/td[text()='Program Enrollment Report']"
+reportdata_xpath="(//tr/td[text()='Patient']//following::td[text()='ID'][@valign='middle']/../following-sibling::tr[1]/td)[1]| (//tr/td[text()='Member']//following::td[text()='ID'][@valign='middle']/../following-sibling::tr[1]/td)[1]"
+Frame_xpath="//*[@id = 'reportContent']"

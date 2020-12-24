@@ -1,0 +1,16 @@
+patient_id_button_xpath = "//input[@name='PatientId']"
+patient_lastname_textbox_xpath = "//input[@name='lastName']"
+patient_firstname_textbox_xpath = "//input[@name='firstName']"
+patient_search_button_xpath = "//td[@class='button']/div[text()='Search']"
+patient_list_xpath = "//tr[@aria-setsize='1']"
+select_button_xpath = "//td[@class='button']/div[text()='Select']"
+addtopatientpanel_button_xpath = "//td[@class='button']/div[text()='Add To Patient Panel']|//td[@class='button']/div[text()='Add To Member Panel']"
+enrollment_button_xpath = "//div[text()='Enrollment']"
+Modify_button_xpath = "//td/div[contains(text(),'Modify')]"
+Address1_text_xpath = "//td/input[@name='streetAddress1']"
+Save_button_xpath = "//td[@class='button']/div[text()='Save']"
+Ok_button_xpath = "//td[text()='Save successful.']//following::div[text()='OK']"
+error_button_xpath = "//td[text()='Error updating patient.']//following::div[text()='OK']"
+addtopatientpanelok_button_xpath = "//div[text()='OK']"
+
+

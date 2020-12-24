@@ -1,0 +1,5 @@
+patientpanel_textbox_xpath = "//input[@placeholder='Search...']"
+patientinpatientpanel_button_xpath = "//div[@ng-if='person'] | //div[@class='patient-item']"
+patientpanel_remove_dropdown_xpath = "//i[@class='q-icon material-icons q-item-icon']"
+patientpanel_remove_xpath = "//div[normalize-space(text())='Remove from Panel'] | //span[normalize-space(text())='Remove from Panel']"
+patientpanel_remove_consent_xpath = "//button/div/div[text()='Yes'] | //button/span[text()='Yes']"
